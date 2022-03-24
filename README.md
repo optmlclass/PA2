@@ -6,6 +6,10 @@ completed using [google colab](colab.research.google.com/) in order to make use 
 
 However, if you have access to a GPU in some other manner, you are certainly welcome to use that instead.
 
+To get started in colab, first download the `EC500_Spring2022_ProgrammingSet2.ipynb` file from this repo. Then, in colab, go to file->open notebook, choose the "upload" option and upload the downloaded file. 
+
 If you use colab, make sure you go to runtime->change runtime type, and select "GPU" so that you are using the GPU.
 
 The assignment is due on April 6th.
+
+You should not need to modify any of the python files in this repo - they just provide modeling code and a few utility functions. The entire assignment is in the .ipynb file.
